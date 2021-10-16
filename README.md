@@ -10,7 +10,7 @@
 
 ## Description
 
-_Basic webpage with a cookie recipe on it. This was used as practice for proper indentation, spacing and tag placement._
+_Basic webpage with a cookie recipe on it. This was used as practice for proper indentation, spacing and tag placement. There is a picture that changes everytime the page is loaded and a link at the bottom to find more recipes._
 
 ## Setup/Installation Requirements
 
